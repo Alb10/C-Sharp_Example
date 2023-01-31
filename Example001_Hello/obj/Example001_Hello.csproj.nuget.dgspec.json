@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alber\\Desktop\\Examples\\Examples.csproj": {}
+    "C:\\Users\\alber\\Desktop\\Examples\\Example001_Hello\\Example001_Hello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alber\\Desktop\\Examples\\Examples.csproj": {
+    "C:\\Users\\alber\\Desktop\\Examples\\Example001_Hello\\Example001_Hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alber\\Desktop\\Examples\\Examples.csproj",
-        "projectName": "Examples",
-        "projectPath": "C:\\Users\\alber\\Desktop\\Examples\\Examples.csproj",
+        "projectUniqueName": "C:\\Users\\alber\\Desktop\\Examples\\Example001_Hello\\Example001_Hello.csproj",
+        "projectName": "Example001_Hello",
+        "projectPath": "C:\\Users\\alber\\Desktop\\Examples\\Example001_Hello\\Example001_Hello.csproj",
         "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alber\\Desktop\\Examples\\obj\\",
+        "outputPath": "C:\\Users\\alber\\Desktop\\Examples\\Example001_Hello\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
